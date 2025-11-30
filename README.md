@@ -21,37 +21,55 @@ Flutter es un **framework de desarrollo** creado por **Google** para construir a
 ## ¿A quién va dirigido?
 Flutter está dirigido a **desarrolladores móviles**, **web** y **de escritorio** que desean crear aplicaciones multiplataforma de alto rendimiento con un solo conjunto de herramientas. Es ideal tanto para **principiantes** como para **desarrolladores experimentados** que buscan mejorar la productividad y simplificar el mantenimiento de múltiples aplicaciones.
 
-## Índice deL material en PDF
+# Índice del Material en PDF:
 
-## 1. Fundamentos de Dart
+## 1. Instalación y Configuración
+
+Instalando y configurando Dart, Flutter.txt
+
+Instalar Flutter en Windows y Visual Studio Code.pdf
+
+## 2. Fundamentos de Dart (6–12)
 
 VARIABLES Y TIPOS DE DATOS EN DART 6.pdf
 
 CONSTANTES EN DART 7.pdf
 
+COMENTARIOS EN DART 8.pdf
+
+INICIO DE VARIABLES Y DATOS 9-10.pdf
+
 OPERADORES ARITMÉTICOS 11.pdf
 
 OPERADORES RELACIONALES 12.pdf
 
-OPERADORES DE INCREMENTO Y DECREMENTO.pdf
+## 3. Estructuras y Colecciones (14–20)
 
-## 2. Estructuras de Control
+CONDICIONALES EN DART 14-15.pdf
 
 SWITCH-CASE EN DART 16.pdf
 
-LISTAS EN DART 20.pdf
+STRINGS EN DART 17.pdf
+
+FUNCIONES MATEMÁTICAS EN DART 18.pdf
 
 MAPAS EN DART 19.pdf
 
-## 3. Funciones
+LISTAS EN DART 20.pdf
 
-FUNCIONES CON PARÁMETROS 22.pdf
+## 4. Funciones (21–22)
 
 FUNCIONES SIN PARÁMETROS 21.pdf
 
-## 4. Programación Orientada a Objetos (POO)
+FUNCIONES CON PARÁMETROS 22.pdf
+
+## 5. Programación Orientada a Objetos – POO (23–29)
 
 CLASES POO 23.pdf
+
+SETTERS Y GETTERS (POO) 24.pdf
+
+CLASE DATETIME 25.pdf
 
 CONSTRUCTOR Y PALABRA RESERVADA 26.pdf
 
@@ -59,40 +77,38 @@ HERENCIA 27.pdf
 
 SOBRESCRIBIR MÉTODOS 28.pdf
 
-SETTERS Y GETTERS (POO) 24.pdf
-
 MANEJO DE EXCEPCIONES 29.pdf
 
-## 5. Desarrollo con Flutter
+(El duplicado “SOBREESCRIBIR MÉTODOS - 28.pdf” ya no se incluye)
 
-CURSO DE FLUTTER 52-56.pdf
-
-CREACIÓN DE PANTALLAS 39.pdf
-
-SCAFFOLD WIDGETS 38.pdf
-
-WIDGET COLUMN 40.pdf
-
-INCRUSTACIÓN DE IMAGEN.pdf
-
-## 6. Depuración y Comentarios
+## 6. Depuración (30)
 
 DEBUGG 30.pdf
 
-COMENTARIOS EN DART 8.pdf
+## 7. Widgets y Flutter Básico (37–40)
 
-## 7. Ejercicios y Programas
+CREANDO LOS PRIMEROS WIDGETS 37.pdf
 
-PROGRAMAS 41-48.pdf
+SCAFFOLD WIDGETS 38.pdf
+
+CREACIÓN DE PANTALLAS 39.pdf
+
+WIDGET COLUMN 40.pdf
+
+## 8. Programas Prácticos (41–48)
+
+PROGRAMAS DEL 41-48.pdf
+
+(Los duplicados fueron omitidos)
+
+## 9. Curso de Flutter (52–56)
+
+CURSO DE FLUTTER 52-56.pdf
+
+## 10. Programas Finales (57–60)
 
 PROGRAMAS 57-60.pdf
 
-INICIO DE VARIABLES Y DATOS 9-10.pdf
+## 11. Extras
 
-CLASE DATETIME 25.pdf
-
-## 8. Instalación y Configuración
-
-Instalando y configurando Dart, Flutter.txt
-
-Instalar Flutter en Windows y Visual Studio Code.pdf
+INCRUSTACIÓN DE IMAGEN.pdf
