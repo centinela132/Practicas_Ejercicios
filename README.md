@@ -1,4 +1,4 @@
-# Practicas_Ejercicios - •	EDGAR URIEL DE LA CRUZ CASANOVA
+# EJERCICIOS - EDGAR URIEL DE LA CRUZ CASANOVA
 
 Repositorio con ejercicios y prácticas realizadas del curso **Flutter-Dart**.
 
