@@ -1,4 +1,6 @@
-# Practicas_Ejercicios
+<p align="center">
+  <h1>Practicas_Ejercicios</h1>
+</p>
 
 Repositorio con ejercicios y prácticas realizadas del curso **Flutter-Dart**.
 
